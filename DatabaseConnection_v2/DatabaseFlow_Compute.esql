@@ -7,6 +7,8 @@ CREATE COMPUTE MODULE DatabaseFlow_Compute
 		
 		
 		--comment added
+		--comment added2
+		
 		
 		
 		INSERT INTO Database.Employee values(InputRoot.JSON.Data.EmpNo,InputRoot.JSON.Data.EmpName,InputRoot.JSON.Data.EmpCity);
